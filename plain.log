@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2017.11.20)  29 DEC 2017 06:28
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2017.11.20)  30 DEC 2017 07:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1697,7 +1697,11 @@ Package: xeCJK-listings 2017/05/15 v3.4.8 xeCJK patch file for listings
 \l__xeCJK_listings_max_char_int=\count320
 \l__xeCJK_listings_flag_int=\count321
 )
-No file plain.aux.
+(./plain.aux (./chapters/ch1.aux) (./chapters/ch2.aux) (./chapters/ch3.aux)
+(./chapters/ch4.aux) (./chapters/ch5.aux) (./chapters/ch6.aux)
+(./chapters/ch7.aux) (./chapters/ch8.aux) (./chapters/ch9.aux)
+(./chapters/ch10.aux) (./chapters/ch11.aux) (./chapters/ch12.aux)
+(./chapters/ch13.aux))
 \openout1 = `plain.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -1718,7 +1722,7 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 9.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 9.
-(/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+ (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 9.
@@ -1844,15 +1848,14 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 9.
 LaTeX Info: Redefining \pageref on input line 9.
 LaTeX Info: Redefining \nameref on input line 9.
+
+(./plain.out) (./plain.out)
 \@outlinefile=\write3
 \openout3 = `plain.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 \c__siunitx_mathsf_int=\count324
 LaTeX Font Info:    Try loading font information for U+msa on input line 9.
+
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -1887,274 +1890,140 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [2
 
-]
-\tf@toc=\write4
-\openout4 = `plain.toc'.
-
- [3]
-\openout2 = `chapters/ch1.aux'.
-
- (./chapters/ch1.tex
+] (./plain.toc [3]
 LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10> not
  available
 (Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on
- input line 1.
- [4
+ input line 63.
+ [4] [5])
+\tf@toc=\write4
+\openout4 = `plain.toc'.
+
+ [6]
+\openout2 = `chapters/ch1.aux'.
+
+ (./chapters/ch1.tex
+第一章
+[7
 
 
 ]
-第一章
-[5]
-
-LaTeX Warning: Reference `ch1-1' on page 6 undefined on input line 33.
-
 File: figure/ch1-1.jpg Graphic file (type bmp)
 <figure/ch1-1.jpg>
-[6] [7]) [8]
+ [8] [9]) [10]
 \openout2 = `chapters/ch2.aux'.
 
  (./chapters/ch2.tex
 第二章
-
-LaTeX Warning: Reference `ch2-1' on page 9 undefined on input line 3.
-
-
-LaTeX Warning: Reference `ch2-2' on page 9 undefined on input line 3.
-
 File: figure/ch2-1.jpg Graphic file (type bmp)
 <figure/ch2-1.jpg>
 File: figure/ch2-2.jpg Graphic file (type bmp)
 <figure/ch2-2.jpg>
-[9
+[11
 
 
 
-] [10] [11]
-
-LaTeX Warning: Reference `eq:ch2.1' on page 12 undefined on input line 56.
-
-[12]
-
-LaTeX Warning: Reference `eq:ch2.1' on page 13 undefined on input line 60.
-
-
-LaTeX Warning: Reference `ch2-3' on page 13 undefined on input line 70.
-
-
-LaTeX Warning: Reference `ch2-3' on page 13 undefined on input line 72.
-
-
-LaTeX Warning: Reference `ch2-3' on page 13 undefined on input line 72.
-
-
-Overfull \hbox (13.54633pt too wide) in paragraph at lines 72--73
-[]\TU/FandolSong-Regular(0)/m/n/10 图[]是 群 聚 电 子 流 的 形 成 示 意 图。|  我 们 先 来 看 看 经 
-过 一 个 调 制 电 场 周 期 后 电 子 的 情 况  |（图[]\TU/lmr/m/n/10 (b)\TU/FandolSong-Regular(0)
-/m/n/10 ） ，|
+] [12] [13] [14]
+Overfull \hbox (17.38632pt too wide) in paragraph at lines 72--73
+[]\TU/FandolSong-Regular(0)/m/n/10 图[][]\TU/lmr/m/n/10 2.3[][]\TU/FandolSong-Re
+gular(0)/m/n/10 是 群 聚 电 子 流 的 形 成 示 意 图。|  我 们 先 来 看 看 经 过 一 个 调 制 电 场 周 期 后 电 
+子 的 情 况  |（图[][]\TU/lmr/m/n/10 2.3[][](b)\TU/FandolSong-Regular(0)/m/n/10 ） ，|
  []
-
-
-LaTeX Warning: Reference `ch2-3' on page 13 undefined on input line 74.
-
-
-LaTeX Warning: Reference `ch2-3' on page 13 undefined on input line 74.
 
 File: figure/ch2-3.jpg Graphic file (type bmp)
 <figure/ch2-3.jpg>
-
-LaTeX Warning: Reference `ch2-3' on page 13 undefined on input line 82.
-
-[13] [14]
-
-LaTeX Warning: Reference `ch2-3' on page 15 undefined on input line 84.
-
-
-LaTeX Warning: Reference `ch2-4' on page 15 undefined on input line 86.
-
+[15] [16]
 File: figure/ch2-4.jpg Graphic file (type bmp)
 <figure/ch2-4.jpg>
-
-LaTeX Warning: Reference `ch2-5' on page 15 undefined on input line 96.
-
 File: figure/ch2-5.jpg Graphic file (type bmp)
 <figure/ch2-5.jpg>
-
-LaTeX Warning: Reference `ch2-5' on page 15 undefined on input line 104.
-
-[15] [16]
-
-LaTeX Warning: Reference `ch2-6' on page 17 undefined on input line 107.
-
-
-LaTeX Warning: Reference `ch2-7' on page 17 undefined on input line 109.
-
-
-LaTeX Warning: Reference `ch2-8' on page 17 undefined on input line 109.
-
-[17]
+ [17] [18] [19]
 File: figure/ch2-6.jpg Graphic file (type bmp)
 <figure/ch2-6.jpg>
 File: figure/ch2-7.jpg Graphic file (type bmp)
 <figure/ch2-7.jpg>
 File: figure/ch2-8.jpg Graphic file (type bmp)
 <figure/ch2-8.jpg>
- [18] [19]
-
-LaTeX Warning: Reference `tab:ch2-1' on page 20 undefined on input line 137.
-
-) [20]
+ [20] [21]) [22]
 \openout2 = `chapters/ch3.aux'.
 
  (./chapters/ch3.tex
 第三章
-
-LaTeX Warning: Reference `ch3-1' on page 21 undefined on input line 6.
-
-
-LaTeX Warning: Reference `ch3-1' on page 21 undefined on input line 6.
-
 File: figure/ch3-1.jpg Graphic file (type bmp)
 <figure/ch3-1.jpg>
-[21
+[23
 
 
 
-]
-
-LaTeX Warning: Reference `ch3-1' on page 22 undefined on input line 18.
-
-[22]
-
-LaTeX Warning: Reference `ch3-2' on page 23 undefined on input line 24.
-
-
-LaTeX Warning: Reference `ch3-2' on page 23 undefined on input line 24.
-
+] [24]
 File: figure/ch3-2.jpg Graphic file (type bmp)
 <figure/ch3-2.jpg>
-
-LaTeX Warning: Reference `ch3-2' on page 23 undefined on input line 32.
-
-
-LaTeX Warning: Reference `ch3-1' on page 23 undefined on input line 32.
-
-
-LaTeX Warning: Reference `ch3-1' on page 23 undefined on input line 32.
-
-
-LaTeX Warning: Reference `eq:ch3-2' on page 23 undefined on input line 36.
-
-
-LaTeX Warning: Reference `eq:ch2.1' on page 23 undefined on input line 36.
-
-
-LaTeX Warning: Reference `ch5' on page 23 undefined on input line 36.
-
-
-LaTeX Warning: Reference `ch3-2' on page 23 undefined on input line 38.
-
+ [25]
 
 LaTeX Warning: Command \textasciitilde invalid in math mode on input line 40.
 
-[23]
-
-LaTeX Warning: Command \textasciitilde invalid in math mode on input line 44.
-
-
-LaTeX Warning: Command \textasciitilde invalid in math mode on input line 44.
-
-
-LaTeX Warning: Reference `ch3-5' on page 24 undefined on input line 48.
-
-
-LaTeX Warning: Reference `eq:ch3-17' on page 24 undefined on input line 62.
-
-[24]
-
-LaTeX Warning: Reference `eq:ch3-9' on page 25 undefined on input line 70.
-
-
-LaTeX Warning: Reference `eq:ch3-21' on page 25 undefined on input line 76.
-
-
-LaTeX Warning: Reference `eq:ch3-18' on page 25 undefined on input line 76.
-
-
-LaTeX Warning: Reference `eq:ch3-22' on page 25 undefined on input line 81.
-
-
-LaTeX Warning: Reference `eq:ch3-9' on page 25 undefined on input line 83.
-
-
-LaTeX Warning: Reference `ch3-6' on page 25 undefined on input line 83.
-
-
-LaTeX Warning: Reference `ch3-7' on page 25 undefined on input line 83.
-
+[26]
 File: figure/ch3-3.jpg Graphic file (type bmp)
 <figure/ch3-3.jpg>
 
-Underfull \vbox (badness 3460) has occurred while \output is active []
 
- [25]
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 111.
+
+
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 111.
+
 File: figure/ch3-4.jpg Graphic file (type bmp)
 <figure/ch3-4.jpg>
 
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 116.
 
-LaTeX Warning: Command \textasciitilde invalid in math mode on input line 107.
-
+[27]
 File: figure/ch3-5.jpg Graphic file (type bmp)
 <figure/ch3-5.jpg>
+ [28] [29]
 File: figure/ch3-6.jpg Graphic file (type bmp)
 <figure/ch3-6.jpg>
+
+
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 189.
+
 File: figure/ch3-7.jpg Graphic file (type bmp)
 <figure/ch3-7.jpg>
+[30] [31]
 File: figure/ch3-8.jpg Graphic file (type bmp)
 <figure/ch3-8.jpg>
+ [32]
 File: figure/ch3-9.jpg Graphic file (type bmp)
 <figure/ch3-9.jpg>
+ [33]
 File: figure/ch3-10.jpg Graphic file (type bmp)
 <figure/ch3-10.jpg>
 File: figure/ch3-11.jpg Graphic file (type bmp)
 <figure/ch3-11.jpg>
 
-LaTeX Warning: Command \textasciitilde invalid in math mode on input line 157.
 
-) [26] [27] [28] [29] [30] [31] [32]
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 271.
+
+[34]) [35]
 \openout2 = `chapters/ch4.aux'.
 
- (./chapters/ch4.tex
-第四章
-
-LaTeX Warning: Reference `eq:ch4-1' on page 33 undefined on input line 17.
-
-[33
+ (./chapters/ch4.tex [36
 
 
 
 ]
-
-LaTeX Warning: Reference `ch7' on page 34 undefined on input line 25.
-
-
-LaTeX Warning: Reference `ch3-6' on page 34 undefined on input line 28.
-
-
-LaTeX Warning: Reference `ch3-8' on page 34 undefined on input line 37.
-
-
-LaTeX Warning: Reference `ch3-8' on page 34 undefined on input line 41.
-
+第四章
+[37]
 File: figure/ch4-1.jpg Graphic file (type bmp)
 <figure/ch4-1.jpg>
 File: figure/ch4-2.jpg Graphic file (type bmp)
 <figure/ch4-2.jpg>
 File: figure/ch4-3.jpg Graphic file (type bmp)
 <figure/ch4-3.jpg>
-) [34] [35]
+) [38] [39]
 \openout2 = `chapters/ch5.aux'.
 
- (./chapters/ch5.tex [36
+ (./chapters/ch5.tex [40
 
 
 
@@ -2172,306 +2041,170 @@ File: figure/ch5-5.jpg Graphic file (type bmp)
 <figure/ch5-5.jpg>
 File: figure/ch5-6.jpg Graphic file (type bmp)
 <figure/ch5-6.jpg>
-) [37] [38]
+) [41] [42]
 \openout2 = `chapters/ch6.aux'.
 
  (./chapters/ch6.tex
 第六章
-
-LaTeX Warning: Reference `ch6-1' on page 39 undefined on input line 3.
-
 File: figure/ch6-1.jpg Graphic file (type bmp)
 <figure/ch6-1.jpg>
-
-LaTeX Warning: Reference `ch7' on page 39 undefined on input line 16.
-
-[39
+[43
 
 
 
 ]
-
-LaTeX Warning: Reference `ch6-2' on page 40 undefined on input line 26.
-
 File: figure/ch6-2.jpg Graphic file (type bmp)
 <figure/ch6-2.jpg>
-
-LaTeX Warning: Reference `ch6-3' on page 40 undefined on input line 36.
-
-[40]
+ [44]
 File: figure/ch6-3.jpg Graphic file (type bmp)
 <figure/ch6-3.jpg>
-
-
-LaTeX Warning: Reference `ch6-3' on page 41 undefined on input line 57.
-
-[41]
+ [45]
 File: figure/ch6-4.jpg Graphic file (type bmp)
 <figure/ch6-4.jpg>
 File: figure/ch6-5.jpg Graphic file (type bmp)
 <figure/ch6-5.jpg>
-
-
-LaTeX Warning: Reference `ch6-4' on page 42 undefined on input line 82.
-
-
-LaTeX Warning: Reference `ch6-5' on page 42 undefined on input line 82.
-
-
-LaTeX Warning: Reference `ch6-6' on page 42 undefined on input line 82.
-
-
-LaTeX Warning: Reference `ch6-6' on page 42 undefined on input line 82.
-
-[42]
+ [46]
 File: figure/ch6-6.jpg Graphic file (type bmp)
 <figure/ch6-6.jpg>
- [43]
-
-LaTeX Warning: Reference `ch6-3' on page 44 undefined on input line 95.
-
-[44]
-
-LaTeX Warning: Reference `ch4' on page 45 undefined on input line 118.
-
+ [47] [48]
 
 LaTeX Warning: Command \textasciitilde invalid in math mode on input line 131.
 
 
 LaTeX Warning: Command \textasciitilde invalid in math mode on input line 131.
-
-
-LaTeX Warning: Reference `ch6-7' on page 45 undefined on input line 135.
 
 File: figure/ch6-7.jpg Graphic file (type bmp)
 <figure/ch6-7.jpg>
-[45] [46]
+[49] [50]
 
 LaTeX Warning: Command \textasciitilde invalid in math mode on input line 183.
 
-[47]
-
-LaTeX Warning: Reference `ch6-8' on page 48 undefined on input line 231.
-
-
-LaTeX Warning: Reference `ch6-8' on page 48 undefined on input line 231.
-
-
-LaTeX Warning: Reference `ch6-8' on page 48 undefined on input line 231.
-
-
-LaTeX Warning: Reference `ch6-8' on page 48 undefined on input line 231.
-
-[48]
+[51] [52]
 File: figure/ch6-8.jpg Graphic file (type bmp)
 <figure/ch6-8.jpg>
-) [49]
+) [53]
 \openout2 = `chapters/ch7.aux'.
 
- (./chapters/ch7.tex [50
+ (./chapters/ch7.tex [54
 
 
 
 ]
 第七章
-[51]
-
-LaTeX Warning: Reference `ch7-1' on page 52 undefined on input line 23.
-
+[55]
 File: figure/ch7-1.jpg Graphic file (type bmp)
 <figure/ch7-1.jpg>
-
-LaTeX Warning: Reference `ch7-2' on page 52 undefined on input line 32.
-
 File: figure/ch7-2.jpg Graphic file (type bmp)
 <figure/ch7-2.jpg>
-
-LaTeX Warning: Reference `ch7-3' on page 52 undefined on input line 43.
-
-[52]
+ [56]
 File: figure/ch7-3.jpg Graphic file (type bmp)
 <figure/ch7-3.jpg>
-
-
-LaTeX Warning: Reference `ch7-3' on page 53 undefined on input line 54.
-
-[53] [54]
+ [57] [58]
 File: figure/ch7-4.jpg Graphic file (type bmp)
 <figure/ch7-4.jpg>
-
-
-LaTeX Warning: Reference `item:ch7-1' on page 55 undefined on input line 99.
-
-
-LaTeX Warning: Reference `item:ch7-2' on page 55 undefined on input line 99.
-
-
-LaTeX Warning: Reference `eq:ch7-4' on page 55 undefined on input line 99.
-
-
-LaTeX Warning: Reference `ch7-4' on page 55 undefined on input line 99.
-
-
-LaTeX Warning: Reference `ch7-4' on page 55 undefined on input line 99.
-
-
-LaTeX Warning: Reference `ch7-5' on page 55 undefined on input line 99.
-
 File: figure/ch7-5.jpg Graphic file (type bmp)
 <figure/ch7-5.jpg>
 File: figure/ch7-6.jpg Graphic file (type bmp)
 <figure/ch7-6.jpg>
 
-LaTeX Warning: Reference `ch7-6' on page 55 undefined on input line 115.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [55]
-[56]
-
-LaTeX Warning: Reference `eq:ch7-2' on page 57 undefined on input line 125.
-
-
-LaTeX Warning: Reference `ch7-7' on page 57 undefined on input line 125.
-
-
-LaTeX Warning: Reference `ch7-8' on page 57 undefined on input line 125.
-
+ [59]
+[60]
 File: figure/ch7-7.jpg Graphic file (type bmp)
 <figure/ch7-7.jpg>
 File: figure/ch7-8.jpg Graphic file (type bmp)
 <figure/ch7-8.jpg>
-
-LaTeX Warning: Reference `ch7-8' on page 57 undefined on input line 141.
-
-[57] [58]
+ [61] [62]
 
 LaTeX Warning: Command \textasciitilde invalid in math mode on input line 154.
 
-
-LaTeX Warning: Reference `ch7-9' on page 59 undefined on input line 162.
-
 File: figure/ch7-9.jpg Graphic file (type bmp)
 <figure/ch7-9.jpg>
-
-LaTeX Warning: Reference `ch7-9' on page 59 undefined on input line 172.
-
-
-LaTeX Warning: Reference `ch7-10' on page 59 undefined on input line 172.
-
-[59]
-
-LaTeX Warning: Reference `ch7-9' on page 60 undefined on input line 174.
-
+[63]
 File: figure/ch7-10.jpg Graphic file (type bmp)
 <figure/ch7-10.jpg>
-
-LaTeX Warning: Reference `ch7-11' on page 60 undefined on input line 184.
-
 File: figure/ch7-11.jpg Graphic file (type bmp)
 <figure/ch7-11.jpg>
-
-LaTeX Warning: Reference `ch7-12' on page 60 undefined on input line 192.
-
-
-LaTeX Warning: Reference `ch7-13' on page 60 undefined on input line 192.
-
 File: figure/ch7-12.jpg Graphic file (type bmp)
 <figure/ch7-12.jpg>
-[60]
+ [64]
 File: figure/ch7-13.jpg Graphic file (type bmp)
 <figure/ch7-13.jpg>
- [61]
-
-LaTeX Warning: Reference `ch7-14' on page 62 undefined on input line 213.
-
+ [65]
 File: figure/ch7-14.jpg Graphic file (type bmp)
 <figure/ch7-14.jpg>
-
-LaTeX Warning: Reference `ch7-15' on page 62 undefined on input line 223.
-
-
-LaTeX Warning: Reference `ch7-17' on page 62 undefined on input line 223.
-
 File: figure/ch7-15.jpg Graphic file (type bmp)
 <figure/ch7-15.jpg>
-[62]
-
-LaTeX Warning: Reference `ch7-16' on page 63 undefined on input line 231.
-
-
-LaTeX Warning: Reference `ch7-17' on page 63 undefined on input line 231.
-
-
-LaTeX Warning: Reference `ch7-18' on page 63 undefined on input line 231.
-
+ [66]
 
 LaTeX Warning: Command \textasciitilde invalid in math mode on input line 231.
 
 File: figure/ch7-16.jpg Graphic file (type bmp)
 <figure/ch7-16.jpg>
-[63]
+[67]
 File: figure/ch7-17.jpg Graphic file (type bmp)
 <figure/ch7-17.jpg>
 File: figure/ch7-18.jpg Graphic file (type bmp)
 <figure/ch7-18.jpg>
- [64] [65]
-
-LaTeX Warning: Reference `ch7-19' on page 66 undefined on input line 262.
-
+ [68] [69]
 File: figure/ch7-19.jpg Graphic file (type bmp)
 <figure/ch7-19.jpg>
 File: figure/ch7-20.jpg Graphic file (type bmp)
 <figure/ch7-20.jpg>
-[66] [67]
+ [70] [71]
 
 LaTeX Warning: Command \textasciitilde invalid in math mode on input line 331.
 
 
 LaTeX Warning: Command \textasciitilde invalid in math mode on input line 337.
 
-
-LaTeX Warning: Reference `ch7-21' on page 68 undefined on input line 337.
-
 File: figure/ch7-21.jpg Graphic file (type bmp)
 <figure/ch7-21.jpg>
-
-LaTeX Warning: Reference `ch7-21' on page 68 undefined on input line 345.
-
-
-LaTeX Warning: Reference `ch7-21' on page 68 undefined on input line 345.
-
-
-LaTeX Warning: Reference `ch7-21' on page 68 undefined on input line 345.
-
-
-LaTeX Warning: Reference `ch7-21' on page 68 undefined on input line 345.
-
-
-LaTeX Warning: Reference `ch7-21' on page 68 undefined on input line 345.
-
-[68] [69]
-
-LaTeX Warning: Reference `ch7-22' on page 70 undefined on input line 368.
-
-
-LaTeX Warning: Reference `ch7-22' on page 70 undefined on input line 368.
-
+[72] [73]
 File: figure/ch7-22.jpg Graphic file (type bmp)
 <figure/ch7-22.jpg>
-
-LaTeX Warning: Reference `ch7-22' on page 70 undefined on input line 388.
-
 File: figure/ch7-23.jpg Graphic file (type bmp)
 <figure/ch7-23.jpg>
+ [74] [75]
 
-LaTeX Warning: Reference `ch7-23' on page 70 undefined on input line 398.
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 428.
 
-[70] [71]
-Missing character: There is no Ⅷ in font [lmroman10-regular]:mapping=tex-text;!
+
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 428.
+
+
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 428.
+
+
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 430.
+
+
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 430.
+
+
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 430.
+
+
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 432.
+
+
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 432.
+
+
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 434.
+
+
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 434.
+
+
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 434.
+
+
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 434.
+
+[76]
 Missing character: There is no ① in font [lmroman10-regular]:mapping=tex-text;!
- [72]
 Missing character: There is no ② in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ③ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ④ in font [lmroman10-regular]:mapping=tex-text;!
@@ -2481,8 +2214,8 @@ Missing character: There is no ⑦ in font [lmroman10-regular]:mapping=tex-text;
 Missing character: There is no ③ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⑨ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ① in font [lmroman10-regular]:mapping=tex-text;!
+ [77]
 Missing character: There is no ② in font [lmroman10-regular]:mapping=tex-text;!
- [73]
 Missing character: There is no ③ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ④ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⑤ in font [lmroman10-regular]:mapping=tex-text;!
@@ -2491,7 +2224,7 @@ Missing character: There is no ⑦ in font [lmroman10-regular]:mapping=tex-text;
 Missing character: There is no ≈ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⑧ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⑨ in font [lmroman10-regular]:mapping=tex-text;!
-) [74]
+) [78]
 \openout2 = `chapters/ch8.aux'.
 
  (./chapters/ch8.tex
@@ -2499,214 +2232,108 @@ Missing character: There is no ⑨ in font [lmroman10-regular]:mapping=tex-text;
 
 Underfull \vbox (badness 4608) has occurred while \output is active []
 
- [75
+ [79
 
 
 
 ]
-
-LaTeX Warning: Reference `ch8-1' on page 76 undefined on input line 32.
-
-
-LaTeX Warning: Reference `ch8-1' on page 76 undefined on input line 32.
-
 File: figure/ch8-1.jpg Graphic file (type bmp)
 <figure/ch8-1.jpg>
-
-LaTeX Warning: Reference `ch8-2' on page 76 undefined on input line 49.
-
 File: figure/ch8-2.jpg Graphic file (type bmp)
 <figure/ch8-2.jpg>
 
 Underfull \vbox (badness 1132) has occurred while \output is active []
 
- [76]
-
-LaTeX Warning: Reference `ch8-3' on page 77 undefined on input line 57.
-
+ [80]
 File: figure/ch8-3.jpg Graphic file (type bmp)
 <figure/ch8-3.jpg>
-
-LaTeX Warning: Reference `ch8-4' on page 77 undefined on input line 65.
-
 File: figure/ch8-4.jpg Graphic file (type bmp)
 <figure/ch8-4.jpg>
-[77]
 
-LaTeX Warning: Reference `ch8-5' on page 78 undefined on input line 82.
-
+[81]
 File: figure/ch8-5.jpg Graphic file (type bmp)
 <figure/ch8-5.jpg>
-) [78] [79]
+) [82] [83]
 \openout2 = `chapters/ch9.aux'.
 
- (./chapters/ch9.tex [80
+ (./chapters/ch9.tex [84
 
 
 
 ]
 第九章
-[81]
-
-LaTeX Warning: Reference `ch9-1' on page 82 undefined on input line 18.
-
+[85]
 File: figure/ch9-1.jpg Graphic file (type bmp)
 <figure/ch9-1.jpg>
-
-LaTeX Warning: Reference `ch9-2' on page 82 undefined on input line 26.
-
 File: figure/ch9-2.jpg Graphic file (type bmp)
 <figure/ch9-2.jpg>
-[82]
-
-LaTeX Warning: Reference `ch9-3' on page 83 undefined on input line 37.
-
+ [86]
 File: figure/ch9-3.jpg Graphic file (type bmp)
 <figure/ch9-3.jpg>
-
-LaTeX Warning: Reference `ch9-4' on page 83 undefined on input line 48.
-
 File: figure/ch9-4.jpg Graphic file (type bmp)
 <figure/ch9-4.jpg>
-
-LaTeX Warning: Reference `ch9-5' on page 83 undefined on input line 58.
-
 File: figure/ch9-5.jpg Graphic file (type bmp)
 <figure/ch9-5.jpg>
-[83] [84] [85] [86]) [87]
+ [87] [88] [89] [90]) [91]
 \openout2 = `chapters/ch10.aux'.
 
- (./chapters/ch10.tex [88
+ (./chapters/ch10.tex [92
 
 
 
 ]
 第十章
-
-LaTeX Warning: Reference `ch2-1' on page 89 undefined on input line 9.
-
-
-LaTeX Warning: Reference `ch10-1' on page 89 undefined on input line 12.
-
 File: figure/ch10-1.jpg Graphic file (type bmp)
 <figure/ch10-1.jpg>
-
-LaTeX Warning: Reference `ch10-1' on page 89 undefined on input line 21.
-
-[89]
-
-LaTeX Warning: Reference `ch10-2' on page 90 undefined on input line 27.
-
+[93]
 File: figure/ch10-2.jpg Graphic file (type bmp)
 <figure/ch10-2.jpg>
 
 Underfull \vbox (badness 7012) has occurred while \output is active []
 
- [90]
-
-LaTeX Warning: Reference `ch10-12' on page 91 undefined on input line 47.
-
-
-LaTeX Warning: Reference `ch10-3' on page 91 undefined on input line 47.
-
+ [94]
 File: figure/ch10-3.jpg Graphic file (type bmp)
 <figure/ch10-3.jpg>
-[91]
 
-LaTeX Warning: Reference `ch10-4' on page 92 undefined on input line 69.
-
+[95]
 File: figure/ch10-4.jpg Graphic file (type bmp)
 <figure/ch10-4.jpg>
-[92]
-
-LaTeX Warning: Reference `ch10-9' on page 93 undefined on input line 80.
-
-
-LaTeX Warning: Reference `ch10-5' on page 93 undefined on input line 80.
-
+ [96]
 File: figure/ch10-5.jpg Graphic file (type bmp)
 <figure/ch10-5.jpg>
-
-LaTeX Warning: Reference `ch10-6' on page 93 undefined on input line 88.
-
 File: figure/ch10-6.jpg Graphic file (type bmp)
 <figure/ch10-6.jpg>
-[93]
+ [97]
 File: figure/ch10-7.jpg Graphic file (type bmp)
 <figure/ch10-7.jpg>
-
-
-LaTeX Warning: Reference `ch10-7' on page 94 undefined on input line 113.
-
-[94]
-
-LaTeX Warning: Reference `ch10-8' on page 95 undefined on input line 126.
-
+ [98]
 File: figure/ch10-8.jpg Graphic file (type bmp)
 <figure/ch10-8.jpg>
-[95]
-
-LaTeX Warning: Reference `ch10-8' on page 96 undefined on input line 142.
-
-
-LaTeX Warning: Reference `ch10-9' on page 96 undefined on input line 145.
-
+ [99]
 File: figure/ch10-9.jpg Graphic file (type bmp)
 <figure/ch10-9.jpg>
-
-LaTeX Warning: Reference `ch10-10' on page 96 undefined on input line 154.
-
-
-LaTeX Warning: Reference `ch10-10' on page 96 undefined on input line 154.
-
-
-LaTeX Warning: Reference `ch10-10' on page 96 undefined on input line 154.
-
 File: figure/ch10-10.jpg Graphic file (type bmp)
 <figure/ch10-10.jpg>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [96]
-
-LaTeX Warning: Reference `ch10-11' on page 97 undefined on input line 162.
-
+ [100]
 File: figure/ch10-11.jpg Graphic file (type bmp)
 <figure/ch10-11.jpg>
 
-LaTeX Warning: Reference `ch10-12' on page 97 undefined on input line 170.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [97]
+ [101]
 File: figure/ch10-12.jpg Graphic file (type bmp)
 <figure/ch10-12.jpg>
 
 
 LaTeX Warning: Float too large for page by 38.12834pt on input line 184.
 
-
-LaTeX Warning: Reference `ch10-12' on page 98 undefined on input line 196.
-
-[98] [99] [100]
-
-LaTeX Warning: Reference `ch10-13' on page 101 undefined on input line 216.
-
+[102] [103] [104]
 File: figure/ch10-13.jpg Graphic file (type bmp)
 <figure/ch10-13.jpg>
-
-LaTeX Warning: Reference `ch10-12' on page 101 undefined on input line 238.
-
-[101] [102]
-
-LaTeX Warning: Reference `ch2-1' on page 103 undefined on input line 243.
-
-
-Underfull \vbox (badness 2478) has occurred while \output is active []
-
- [103])
-[104]
+ [105] [106] [107]) [108]
 \openout2 = `chapters/ch11.aux'.
 
  (./chapters/ch11.tex
@@ -2714,7 +2341,7 @@ Underfull \vbox (badness 2478) has occurred while \output is active []
 
 Underfull \vbox (badness 4608) has occurred while \output is active []
 
- [105
+ [109
 
 
 
@@ -2746,10 +2373,10 @@ File: figure/ch11-12.jpg Graphic file (type bmp)
 File: figure/ch11-13.jpg Graphic file (type bmp)
 <figure/ch11-13.jpg>
 
-[106] [107] [108] [109] [110] [111] [112]) [113]
+[110] [111] [112] [113] [114] [115] [116]) [117]
 \openout2 = `chapters/ch12.aux'.
 
- (./chapters/ch12.tex [114
+ (./chapters/ch12.tex [118
 
 
 
@@ -2758,11 +2385,11 @@ File: figure/ch11-13.jpg Graphic file (type bmp)
 
 Underfull \vbox (badness 4608) has occurred while \output is active []
 
- [115]
-[116]) [117]
+ [119]
+[120]) [121]
 \openout2 = `chapters/ch13.aux'.
 
- (./chapters/ch13.tex [118
+ (./chapters/ch13.tex [122
 
 
 
@@ -2771,8 +2398,8 @@ Underfull \vbox (badness 4608) has occurred while \output is active []
 
 Underfull \vbox (badness 4608) has occurred while \output is active []
 
- [119]
-[120]) [121]
+ [123]
+[124]) [125]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 26.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 26.
  (./plain.aux (./chapters/ch1.aux) (./chapters/ch2.aux)
@@ -2782,22 +2409,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 26.
 (./chapters/ch12.aux) (./chapters/ch13.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 26.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 26.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 26.
  ) 
 Here is how much of TeX's memory you used:
- 32797 strings out of 492998
- 662013 string characters out of 6136604
- 677817 words of memory out of 5000000
- 36282 multiletter control sequences out of 15000+600000
- 542947 words of font info for 111 fonts, out of 8000000 for 9000
+ 32906 strings out of 492998
+ 664035 string characters out of 6136604
+ 702886 words of memory out of 5000000
+ 36361 multiletter control sequences out of 15000+600000
+ 542931 words of font info for 109 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 57i,11n,69p,10469b,861s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,11n,69p,10469b,859s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on plain.pdf (121 pages).
+Output written on plain.pdf (125 pages).
