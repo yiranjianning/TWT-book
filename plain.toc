@@ -1,0 +1,109 @@
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}引言}{7}{chapter.1}
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}行波管的构造和工作原理}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}行波管的构造}{11}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}电子枪}{11}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}信号输入、输出耦合装置（或输能装置）}{12}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}螺旋线慢波系统}{12}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}收集极和散热器}{13}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}磁聚束系统（磁聚焦系统）}{13}{subsection.2.1.5}
+\contentsline {section}{\numberline {2.2}行波管放大的基本原理}{13}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}双腔速调管的频带为什么那么窄？}{13}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}同步}{14}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}群聚和放大}{15}{subsection.2.2.3}
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}螺旋线}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}螺旋线是怎样使电磁波速度变慢的？}{23}{section.3.1}
+\contentsline {section}{\numberline {3.2}色散特性}{24}{section.3.2}
+\contentsline {section}{\numberline {3.3}耦合阻抗}{28}{section.3.3}
+\contentsline {section}{\numberline {3.4}特性阻抗}{32}{section.3.4}
+\contentsline {section}{\numberline {3.5}实际的螺旋线}{33}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}介质夹持对色散特性的影响}{34}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}屏蔽筒对色散特性的影响}{34}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}介质夹持和屏蔽筒对耦合阻抗的影响}{35}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.4}导丝尺寸的影响}{35}{subsection.3.5.4}
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}行波管的放大能力}{37}{chapter.4}
+\contentsline {section}{\numberline {4.1}电子注参量对增益的影响}{37}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}电子注电流的影响}{37}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}电子注电压的影响}{37}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}电子注直径的影响}{38}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}高频电场对增益的影响}{38}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}螺旋线直径对增益的影响}{38}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}慢波波长$ \lambda _g $对增益的影响}{39}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}电子注半径与螺旋线半径之比$ \frac {b}{a} $对增益的影响}{39}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}螺旋线成都及其他因素对增益的影响}{40}{section.4.3}
+\contentsline {section}{\numberline {4.4}行波管增益的计算}{40}{section.4.4}
+\contentsline {section}{\numberline {4.5}行波管高频系统计算简介}{43}{section.4.5}
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}怎样克服自激振荡}{47}{chapter.5}
+\contentsline {section}{\numberline {5.1}自激振荡是怎么回事？}{47}{section.5.1}
+\contentsline {section}{\numberline {5.2}内部反射引起的自激振荡}{47}{section.5.2}
+\contentsline {section}{\numberline {5.3}外部反馈引起的自激振荡}{51}{section.5.3}
+\contentsline {section}{\numberline {5.4}二次电子引起的自激振荡}{51}{section.5.4}
+\contentsline {section}{\numberline {5.5}怎样判断自激振荡？}{52}{section.5.5}
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}细电子注是怎样得到的？}{55}{chapter.6}
+\contentsline {section}{\numberline {6.1}电子枪的分类}{56}{section.6.1}
+\contentsline {section}{\numberline {6.2}行波管电子枪的构造}{57}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}会聚状电子注}{57}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}球形二极管}{58}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.3}怎样得到一把好的电子枪}{60}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}对电子枪的基本要求}{60}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}电子枪的参量}{61}{subsection.6.3.2}
+\contentsline {section}{\numberline {6.4}两个问题}{63}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}电子的热初速}{64}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}层流特性}{64}{subsection.6.4.2}
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}磁聚束系统}{67}{chapter.7}
+\contentsline {section}{\numberline {7.1}均匀磁场中的电子运动}{68}{section.7.1}
+\contentsline {section}{\numberline {7.2}布里渊流聚束}{73}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}什么叫布里渊流聚束}{73}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}电子注的脉动}{75}{subsection.7.2.2}
+\contentsline {section}{\numberline {7.3}周期永磁聚束}{76}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}什么叫周期磁场}{78}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}电子在周期磁场中的运动}{80}{subsection.7.3.2}
+\contentsline {subsection}{\numberline {7.3.3}电子注在周期场中的脉动}{83}{subsection.7.3.3}
+\contentsline {subsection}{\numberline {7.3.4}磁场系数和周期长度}{86}{subsection.7.3.4}
+\contentsline {subsection}{\numberline {7.3.5}怎样决定磁环的尺寸?}{86}{subsection.7.3.5}
+\contentsline {chapter}{\numberline {第八章\hspace {.3em}}收集极和散热器}{93}{chapter.8}
+\contentsline {section}{\numberline {8.1}降温的意义}{93}{section.8.1}
+\contentsline {section}{\numberline {8.2}散热}{93}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}减少在收集极上产生的热量}{94}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}尽量把收集极上的热量散掉}{94}{subsection.8.2.2}
+\contentsline {section}{\numberline {8.3}散热器}{94}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}带有翼片的散热器}{94}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}散热块式散热器}{95}{subsection.8.3.2}
+\contentsline {chapter}{\numberline {第九章\hspace {.3em}}信号输入输出耦合装置}{99}{chapter.9}
+\contentsline {section}{\numberline {9.1}对输能装置有什么要求?}{99}{section.9.1}
+\contentsline {section}{\numberline {9.2}输能装置有哪几种?}{100}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}直接引出型}{100}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}同轴腔耦合型}{101}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.3}反绕螺旋线型}{101}{subsection.9.2.3}
+\contentsline {subsection}{\numberline {9.2.4}波导耦合型}{101}{subsection.9.2.4}
+\contentsline {chapter}{\numberline {第十章\hspace {.3em}}行波管是怎样制造出来的？}{107}{chapter.10}
+\contentsline {section}{\numberline {10.1}生产一只行波管要经过多少道工序?}{107}{section.10.1}
+\contentsline {section}{\numberline {10.2}零件制造?}{108}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}种类繁多的零件材料}{109}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.2}多种多样的加工方法}{110}{subsection.10.2.2}
+\contentsline {section}{\numberline {10.3}零件的清洗与烧氢}{111}{section.10.3}
+\contentsline {section}{\numberline {10.4}部件制造}{113}{section.10.4}
+\contentsline {subsection}{\numberline {10.4.1}金属—陶瓷封接部件}{113}{subsection.10.4.1}
+\contentsline {subsection}{\numberline {10.4.2}阴极、灯丝部件}{114}{subsection.10.4.2}
+\contentsline {subsection}{\numberline {10.4.3}螺旋线部件}{115}{subsection.10.4.3}
+\contentsline {section}{\numberline {10.5}行波管的装配}{116}{section.10.5}
+\contentsline {subsection}{\numberline {10.5.1}配窗}{116}{subsection.10.5.1}
+\contentsline {subsection}{\numberline {10.5.2}钎焊}{116}{subsection.10.5.2}
+\contentsline {subsection}{\numberline {10.5.3}装配管芯}{116}{subsection.10.5.3}
+\contentsline {section}{\numberline {10.6}排气}{118}{section.10.6}
+\contentsline {section}{\numberline {10.7}行波管直流工作状态的调整}{121}{section.10.7}
+\contentsline {section}{\numberline {10.8}出厂前的质量检验}{121}{section.10.8}
+\contentsline {subsection}{\numberline {10.8.1}测试}{122}{subsection.10.8.1}
+\contentsline {subsection}{\numberline {10.8.2}老炼}{122}{subsection.10.8.2}
+\contentsline {subsection}{\numberline {10.8.3}存放}{122}{subsection.10.8.3}
+\contentsline {subsection}{\numberline {10.8.4}复验}{122}{subsection.10.8.4}
+\contentsline {subsection}{\numberline {10.8.5}其它}{122}{subsection.10.8.5}
+\contentsline {chapter}{\numberline {第十一章\hspace {.3em}}行波管的特性参量及其测量}{123}{chapter.11}
+\contentsline {chapter}{\numberline {第十二章\hspace {.3em}}怎样使用行波管}{125}{chapter.12}
+\contentsline {chapter}{\numberline {第十三章\hspace {.3em}}收集极和散热器}{127}{chapter.13}
+\contentsline {section}{\numberline {13.1}降温的意义}{127}{section.13.1}
+\contentsline {section}{\numberline {13.2}散热}{127}{section.13.2}
+\contentsline {subsection}{\numberline {13.2.1}减少在收集极上产生的热量}{128}{subsection.13.2.1}
+\contentsline {subsection}{\numberline {13.2.2}尽量把收集极上的热量散掉}{128}{subsection.13.2.2}
+\contentsline {section}{\numberline {13.3}散热器}{128}{section.13.3}
+\contentsline {subsection}{\numberline {13.3.1}带有翼片的散热器}{128}{subsection.13.3.1}
+\contentsline {subsection}{\numberline {13.3.2}散热块式散热器}{128}{subsection.13.3.2}
