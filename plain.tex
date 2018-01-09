@@ -1,17 +1,32 @@
-\documentclass[10pt,a4paper,UTF8]{ctexbook}
+\documentclass[hyperref,UTF8]{ctexbook}
 %\usepackage[utf8]{inputenc}
 \usepackage{array,multirow,color,amsmath,amsfonts,amssymb}
-\usepackage{graphicx,booktabs,geometry,fancyhdr,listings,xcolor,bm,siunitx,enumerate}
+\usepackage{graphicx,booktabs,fancyhdr,listings,xcolor,bm,siunitx,enumerate,tikz}
 %\usepackage{wrapfig}
 %\usepackage[section]{placeins}
 \usepackage[colorlinks, linkcolor=black, anchorcolor=black, citecolor=black,filecolor=black,urlcolor=black ]{hyperref}
+\usepackage[%
+%left=1.5cm,%
+%right=1.5cm,%
+%top=2cm,%
+%bottom=2cm
+]{geometry}
+ \usepackage[final]{pdfpages}
 	\title{\heiti \Huge 行\ 波\ 管}
 	\author{邮电五〇六厂\ 《行波管》编写组编著\\国营七七二厂整理}
 	\date{\today}
 \begin{document}
-	\maketitle
+\maketitle
 	\setcounter{tocdepth}{3} %设定目录深度
 	\tableofcontents
+	%用于生成罗马计数的前言
+	\frontmatter
+	%前言内容
+	%生成阿拉伯计数的页码
+	\include{contents/frontmatter}
+	\mainmatter
+	%主体内容
+
 \include{chapters/ch1}
 \include{chapters/ch2}
 \include{chapters/ch3}
@@ -25,5 +40,8 @@
 \include{chapters/ch11}
 \include{chapters/ch12}
 \include{chapters/ch13}
+	%附录,自动用字母计数的chapter
+\appendix
+%附录内容
 \end{document}
 
